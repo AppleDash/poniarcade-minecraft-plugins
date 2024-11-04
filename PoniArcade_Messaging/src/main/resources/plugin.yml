@@ -1,0 +1,7 @@
+name: PoniArcade_Messaging
+author: AppleDash
+description: Messaging functions for PoniArcade.
+version: 1.10-1
+main: com.poniarcade.messaging.PoniArcade_Messaging
+depend: [PoniArcade_Core, PoniArcade_Database]
+api-version: 1.19

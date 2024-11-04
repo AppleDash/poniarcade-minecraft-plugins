@@ -1,0 +1,18 @@
+# Database configuration.
+# Valid parameters:
+#
+# name               | type     | description                                      | default
+#------------------------------------------------------------------------------------------------
+# host               | string   | PostgreSQL server hostname                       | (none)
+# database           | string   | PostgreSQL database name                         | (none)
+# username           | string   | PostgreSQL username                              | (none)
+# password           | string   | PostgreSQL password                              | (none)
+# connection_timeout | int (ms) | Database connection timeout                      | 1.5 seconds
+# idle_timeout       | int (ms) | Database connection idle timeout                 | 5 minutes
+# max_lifetime       | int (ms) | Maximum lifetime of a single database connection | 30 minutes
+#------------------------------------------------------------------------------------------------
+database:
+  host: localhost
+  database: minecraft
+  username: minecraft
+  password: v3rys3cur3p@ssw0rd

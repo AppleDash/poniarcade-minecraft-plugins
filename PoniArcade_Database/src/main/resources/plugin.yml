@@ -1,0 +1,6 @@
+name: PoniArcade_Database
+version: 1.10-1
+description: Manages the connection to the SQL database.
+main: com.poniarcade.poniarcade_database.PoniArcade_Database
+author: AppleDash
+api-version: 1.19

@@ -1,0 +1,7 @@
+name: PoniArcade_Core
+main: com.poniarcade.core.PoniArcade_Core
+version: 1.10-1
+authors: [PonyMC_Devs, AppleDash]
+depend: [ProtocolLib, WorldGuard, PoniArcade_Database, PermissionsEx]
+softdepend: [PermissionsEx]
+api-version: 1.19

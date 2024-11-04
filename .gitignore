@@ -1,0 +1,24 @@
+#Ignore Eclipse Configs
+.classpath
+.project
+.settings
+.recommenders
+#Ignore IntelliJ Configs
+.idea
+.metadata
+*.iml
+#Ignore Binaries
+bin/
+#Ignore builds
+build/
+target/
+out/
+server/*
+!server/start.sh
+dependency-reduced-pom.xml
+bungee/*
+!bungee/.placeholder
+/PoniArcade_Database/src/main/java/com/poniarcade/poniarcade_database/orm/*
+/PoniArcade_Core/src/main/java/com/poniarcade/core/commands/parser/*
+/PoniArcade_Punishments/*
+

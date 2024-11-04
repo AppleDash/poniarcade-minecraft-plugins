@@ -1,0 +1,7 @@
+name: PoniArcade_Warps
+main: com.poniarcade.warps.PoniArcade_Warps
+version: 1.10-1
+author: AppleDash
+depend: [PoniArcade_Core, PoniArcade_Database]
+website: https://poniarcade.com
+api-version: 1.19

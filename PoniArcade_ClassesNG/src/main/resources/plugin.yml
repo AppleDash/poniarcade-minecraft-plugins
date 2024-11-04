@@ -1,0 +1,7 @@
+name: PoniArcade_ClassesNG
+main: com.poniarcade.classesng.PoniArcade_ClassesNG
+description: Next-generation class system for PoniArcade
+author: Blackjack
+version: 1.10.2-1
+depend: [PoniArcade_Core, PoniArcade_Database, SaneEconomy, LibsDisguises]
+api-version: 1.19

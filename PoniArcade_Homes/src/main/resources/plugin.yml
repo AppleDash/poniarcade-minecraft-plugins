@@ -1,0 +1,7 @@
+name: PoniArcade_Homes
+version: 1.10-1
+author: AppleDash
+description: Homes for PoniArcade!
+main: com.poniarcade.poniarcade_homes.PoniArcade_Homes
+depend: [PoniArcade_Core, PoniArcade_Database, SaneEconomy]
+api-version: 1.19

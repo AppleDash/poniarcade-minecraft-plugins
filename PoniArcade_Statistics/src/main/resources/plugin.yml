@@ -1,0 +1,7 @@
+name: PoniArcade_Statistics
+main: com.poniarcade.statistics.PoniArcade_Statistics
+author: AppleDash
+description: Player statistics for PoniArcade!
+version: 1.10-1
+depend: [PoniArcade_Core, PoniArcade_Database]
+api-version: 1.19
